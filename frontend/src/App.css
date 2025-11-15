@@ -1,0 +1,40 @@
+.container {
+    max-width: 1100px;
+    margin: 24px auto;
+    padding: 0 16px;
+    font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+.header{
+    margin-bottom: 16px;
+}
+.grid{
+    display:grid;
+    grid-template-columns: 320px 1fr; /*left sidebar + right content*/
+    gap: 16px;
+}
+.card{
+    background:#fff;
+    border:1px solid #e8e8e8;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0,0.04);
+}
+.sticky{
+    position: sticky;
+    top: 16px;
+}
+
+.section{
+    margin-bottom: 16px;
+
+}
+hr{
+    border:none;
+    border-top: 1px solid #eee;
+    margin: 16px 0;
+}
+
+.actions button {
+margin-right:8px;
+}
