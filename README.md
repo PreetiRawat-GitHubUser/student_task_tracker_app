@@ -50,7 +50,7 @@ Tools: Composer, Node.js, XAMPP
 
 
     ScreenShots :
+    
+<img width="1920" height="945" alt="Image" src="https://github.com/user-attachments/assets/a80a7a79-0759-4a54-bb09-d0dbb1cfc344" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cba244c9-fd63-40a0-bb60-e4fa0cebb371" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ef60b923-4e64-491d-81b3-09099afc5135" />
+<img width="1920" height="952" alt="Image" src="https://github.com/user-attachments/assets/86bcff70-5050-46a5-95ea-6d230220dcab" />
