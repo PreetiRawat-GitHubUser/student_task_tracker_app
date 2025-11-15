@@ -5,8 +5,8 @@ It allows you to add students, assign tasks to them, update tasks, and manage ev
 
 It is perfect for learning CRUD operations, API development, frontend–backend connection, and React + Laravel integration.
 
- What This App Can Do =>
- Student Features :
+    What This App Can Do =>
+    Student Features :
 
 1.Add new students
 
@@ -16,7 +16,8 @@ It is perfect for learning CRUD operations, API development, frontend–backend 
 
 4.View all students in a list
 
-Task Features :
+
+    Task Features :
 
 1.Add tasks for a specific student
 
@@ -24,9 +25,10 @@ Task Features :
 
 3.Delete tasks
 
-View tasks of each student
+4.View tasks of each student
 
- App Highlights :
+
+     App Highlights :
 
 Laravel REST API
 
@@ -38,9 +40,17 @@ MySQL database
 
 Beginner-friendly folder structure
 
- Tech Used :
+
+    Tech Used :
 
 Frontend: React, Axios, React Router
 Backend: Laravel, Eloquent ORM
 Database: MySQL
 Tools: Composer, Node.js, XAMPP
+
+
+    ScreenShots :
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cba244c9-fd63-40a0-bb60-e4fa0cebb371" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ef60b923-4e64-491d-81b3-09099afc5135" />
