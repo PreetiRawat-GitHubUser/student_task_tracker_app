@@ -1,69 +1,46 @@
 Student Task Tracker App
 
-A full-stack CRUD-based Student Task Management System built using:
+The Student Task Tracker App is a simple and clean full-stack project built using Laravel (Backend) and React (Frontend).
+It allows you to add students, assign tasks to them, update tasks, and manage everything easily.
 
-Laravel (Backend API)
+It is perfect for learning CRUD operations, API development, frontend–backend connection, and React + Laravel integration.
 
-MySQL (Database)
+ What This App Can Do =>
+ Student Features :
 
-React.js (Frontend)
+1.Add new students
 
-This project helps manage students and their assigned tasks with proper backend–frontend integration.
+2.Edit student information
 
- Features
- Student Management
+3.Delete students
 
-Add new students
+4.View all students in a list
 
-Edit student details
+Task Features :
 
-Delete students
+1.Add tasks for a specific student
 
-View list of all students
+2.Update task name/status
 
- Task Management
+3.Delete tasks
 
-Add tasks for each student
+View tasks of each student
 
-Update task details
+ App Highlights :
 
-Mark tasks as completed / pending
+Laravel REST API
 
-Delete tasks
+React frontend with Axios
 
-View tasks student-wise
+Clean and simple UI
 
- API Integration
+MySQL database
 
-Laravel REST API for all CRUD operations
+Beginner-friendly folder structure
 
-React frontend calls backend using Axios
+ Tech Used :
 
- Database
-
-Student table
-
-Task table linked using One-to-Many (Student → Tasks)
-
- Tech Stack
-Frontend
-
-React.js
-
-Axios
-
-React Router
-
-Backend
-
-Laravel 11
-
-Eloquent ORM
-
-API Routes
-
-Controllers & Models
-
-Database
-
-MySQL (via XAMPP)
+Frontend: React, Axios, React Router
+Backend: Laravel, Eloquent ORM
+Database: MySQL
+Tools: Composer, Node.js, XAMPP
